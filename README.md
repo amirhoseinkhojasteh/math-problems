@@ -50,3 +50,5 @@ Example: If the inputs are 1 1 2 2 2 8, the output will be:
 If all the results are zero, it means that all the input numbers match the expected values.
 
 Note: This program does not actually find missing numbers. Instead, it calculates the difference between each input and its expected value.
+
+# 6.
