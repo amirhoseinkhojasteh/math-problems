@@ -55,4 +55,4 @@ If all the results are zero, it means that all the input numbers match the expec
 Note: This program does not actually find missing numbers. Instead, it calculates the difference between each input and its expected value.
 
 # 6. Number Guessing Game 🎯
-This program generates a random number between 1 and 100. The user must guess the number, and the program provides hints to help them. If the guess is too low, it asks the user to try a bigger number. If the guess is too high, it asks for a smaller number. The program also counts the number of attempts and displays a congratulation message when the correct number is guessed.
+This program generates a random number between 1 and 100. The user must guess the number, and the program provides hints to help them. If the guess is too low, it asks the user to try a bigger number. If the guess is too high, it asks for a smaller number. The program also counts the number of attempts and displays a congratulation message when the correct number is guessed...
