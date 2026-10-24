@@ -15,6 +15,7 @@ Example: If the input is 10, the program checks the powers of 2:
 1, 2, 4, 8, 16
 
 Since 16 is the first power of 2 greater than 10, the output will be 16.
+
 # 3. Reverse Number Comparison
 This program takes two strings as input and reverses each one before comparing them.
 
@@ -23,6 +24,7 @@ It uses [::-1] to reverse the characters of each input. Then, it compares the re
 Example: If the inputs are 123 and 321, their reversed forms will be 321 and 123, respectively. The program then compares these reversed strings.
 
 Note: The comparison is performed between strings, not numeric values, so the result is based on character order.
+
 # 4. Number Statistics
 This program takes four integers as input and performs five mathematical operations:
 - Sum: Calculates the sum of the four numbers.
@@ -38,6 +40,7 @@ Example: If the inputs are 2, 4, 6, and 8, the results will be:
 - Product: 384
 - Maximum: 8
 - Minimum: 2
+- 
 # 5. Number Difference Calculator
 This program takes six integers as input and compares them with the expected values 1, 1, 2, 2, 2, 8.
 
@@ -52,5 +55,4 @@ If all the results are zero, it means that all the input numbers match the expec
 Note: This program does not actually find missing numbers. Instead, it calculates the difference between each input and its expected value.
 
 # 6. Number Guessing Game 🎯
-
 This program generates a random number between 1 and 100. The user must guess the number, and the program provides hints to help them. If the guess is too low, it asks the user to try a bigger number. If the guess is too high, it asks for a smaller number. The program also counts the number of attempts and displays a congratulation message when the correct number is guessed.
